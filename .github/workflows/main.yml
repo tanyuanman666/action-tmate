@@ -1,4 +1,4 @@
-name: open
+name: open2
 on: [push]
 jobs:
   build:
